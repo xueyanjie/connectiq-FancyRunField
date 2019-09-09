@@ -1,0 +1,52 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <!-- 背景 -->
+    <drawable-list id="bg" foreground="Graphics.COLOR_WHITE">
+		<shape type="rectangle" x="0" y="0" width="240" height="240" />
+	</drawable-list>
+	<!-- top bar -->
+    <drawable-list id="top" foreground="Graphics.COLOR_BLACK">
+		<shape type="rectangle" x="0" y="0" width="240" height="40" />
+	</drawable-list>
+	<!-- HR, Pace and Cadence -->
+	<drawable-list id="hr_zone1">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="0xccd1d1"/>
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Graphics.COLOR_BLUE"/>
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Graphics.COLOR_GREEN"/>
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Gfx.COLOR_ORANGE"/>
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Gfx.COLOR_RED"/>
+	</drawable-list>
+	<drawable-list id="hr_zone">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="0xccd1d1"/>
+	</drawable-list>
+	<drawable-list id="hr_zone2">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Graphics.COLOR_BLUE"/>
+	</drawable-list>
+	<drawable-list id="hr_zone3">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Graphics.COLOR_GREEN"/>
+	</drawable-list>
+	<drawable-list id="hr_zone4">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Gfx.COLOR_ORANGE"/>
+	</drawable-list>
+	<drawable-list id="hr_zone5">
+		<!-- hr zone color -->
+		<shape type="rectangle" x="0" y="41" width="79" height="28" color="Gfx.COLOR_RED"/>
+	</drawable-list>
+	<drawable-list id="main" foreground="Graphics.COLOR_WHITE">
+		<!-- 横线 -->
+		<shape type="rectangle" x="0" y="120" width="240" height="1" border_width="1" border_color="Gfx.COLOR_BLACK"/>
+		<!-- 竖线 -->
+		<shape type="rectangle" x="80" y="40" width="1" height="80" border_width="1" border_color="Gfx.COLOR_BLACK"/>
+		<shape type="rectangle" x="160" y="40" width="1" height="80" border_width="1" border_color="Gfx.COLOR_BLACK"/>
+		<shape type="rectangle" x="120" y="120" width="1" height="80" border_width="1" border_color="Gfx.COLOR_BLACK"/>
+		<shape type="rectangle" x="0" y="200" width="240" height="1" border_color="Gfx.COLOR_BLACK"/>
+	</drawable-list>
+	<!-- bottom bar -->
+	<drawable-list id="bottom">
+	</drawable-list>
+</drawables>

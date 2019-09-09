@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">FancyRunField</string>
+
+    <string id="label">My Value</string>
+    <string id="hr">HR</string>
+    <string id="distance">DIST</string>
+    <string id="timer_title">TIMER</string>
+    <string id="pace">PACE</string>
+    <string id="cadence">CAD</string>
+</strings>

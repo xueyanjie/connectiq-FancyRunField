@@ -1,0 +1,12 @@
+<resources>
+	<strings>
+		<!-- hr rect and title 0, 41, 79, 28    47, 40-->
+	    <string id="hr_rect_x">0</string>
+	    <string id="hr_rect_y">41</string>
+	    <string id="hr_rect_w">79</string>
+	    <string id="hr_rect_h">28</string>
+	    <string id="hr_title_x">47</string>
+	    <string id="hr_title_y">40</string>
+	    <string id="hr_title_font">1</string>
+	</strings>
+</resources>

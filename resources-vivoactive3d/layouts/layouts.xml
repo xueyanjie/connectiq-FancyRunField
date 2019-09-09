@@ -1,0 +1,29 @@
+<layouts>
+    <layout id="LayoutMain" background="Graphics.COLOR_WHITE" foreground="Gfx.COLOR_BLACK">
+    	<drawable id="bg"></drawable>
+        <!-- Top bar. -->
+        <drawable id="top"></drawable>
+    	<label id="lblTime" x="center" y="12" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" />
+    	<!-- main -->
+    	<drawable id="main"></drawable>
+    	<!-- hr -->
+    	<label id="lbl_hr_title" x="47" y="40" font="Gfx.FONT_TINY" text="@Strings.hr" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<label id="lbl_hr_val" x="42" y="65" font="Gfx.FONT_NUMBER_MEDIUM" text="--" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    	<!-- pace -->
+    	<label id="lbl_pace_title" x="120" y="40" font="Gfx.FONT_TINY" text="@Strings.pace" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<label id="lbl_pace_val"  x="120" y="65" font="Gfx.FONT_NUMBER_MEDIUM" text="--:--" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<!-- cadence -->
+    	<label id="lbl_cad_title" x="190" y="40" font="Gfx.FONT_TINY" text="@Strings.cadence" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<label id="lbl_cad_val" x="195" y="65" font="Gfx.FONT_NUMBER_MEDIUM" text="0" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<!-- distance -->
+    	<label id="lbl_dist_val" x="65" y="122" font="Gfx.FONT_NUMBER_MEDIUM" text="0.0" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<label id="lbl_dist_title" x="65" y="165" font="Gfx.FONT_TINY" text="@Strings.distance" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<!-- timer -->
+    	<label id="lbl_timer_val" x="175" y="122" font="Gfx.FONT_NUMBER_MEDIUM" text="0:00" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<label id="lbl_timer_title" x="175" y="165" font="Gfx.FONT_TINY" text="@Strings.timer_title" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    	<!-- bottom -->
+    	<drawable id="bottom"></drawable>
+    	<label id="lblGPS" x="120" y="205" text="GPS" font="Gfx.FONT_SYSTEM_TINY" color="Gfx.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    </layout>
+</layouts>
+

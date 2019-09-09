@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="25" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="26" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="27" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="28" pc="268435530" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="29" pc="268435582" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="30" pc="268435634" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="31" pc="268435686" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="32" pc="268435738" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="34" pc="268435790" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="3" lineNum="36" pc="268435842" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="4" lineNum="43" pc="268435856" symbol="onLayout"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="4" lineNum="44" pc="268435860" symbol="onLayout"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="4" lineNum="45" pc="268435903" symbol="onLayout"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="52" pc="268435907" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="53" pc="268435911" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="54" pc="268435911" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="55" pc="268435946" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="55" pc="268435959" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="56" pc="268435975" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="57" pc="268436010" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="57" pc="268436023" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="58" pc="268436039" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="59" pc="268436074" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="59" pc="268436087" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="60" pc="268436103" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="61" pc="268436138" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="61" pc="268436151" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="62" pc="268436167" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="63" pc="268436202" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="63" pc="268436215" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="64" pc="268436231" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="66" pc="268436262" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="67" pc="268436306" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="5" lineNum="67" pc="268436319" symbol="compute"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="74" pc="268436367" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="75" pc="268436371" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="76" pc="268436371" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="77" pc="268436395" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="81" pc="268436418" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="82" pc="268436439" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="83" pc="268436459" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="85" pc="268436506" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="87" pc="268436550" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="88" pc="268436557" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="88" pc="268436574" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="89" pc="268436596" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="90" pc="268436630" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="91" pc="268436681" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="92" pc="268436730" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="93" pc="268436781" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="107" pc="268436832" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="108" pc="268436852" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="6" lineNum="109" pc="268436872" symbol="onUpdate"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="115" pc="268436909" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="116" pc="268436913" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="118" pc="268436927" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="119" pc="268436951" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="120" pc="268436971" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="121" pc="268436988" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="122" pc="268437008" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="123" pc="268437025" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="124" pc="268437045" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="7" lineNum="126" pc="268437062" symbol="setGPS"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="129" pc="268437077" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="130" pc="268437081" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="131" pc="268437102" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="132" pc="268437113" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="134" pc="268437117" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="135" pc="268437132" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="136" pc="268437158" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="137" pc="268437202" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="138" pc="268437245" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="139" pc="268437269" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="8" lineNum="140" pc="268437305" symbol="drawHrBg"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="148" pc="268437362" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="149" pc="268437366" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="150" pc="268437385" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="151" pc="268437385" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="152" pc="268437396" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="154" pc="268437475" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="155" pc="268437562" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="9" lineNum="157" pc="268437597" symbol="formatTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="161" pc="268437601" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="162" pc="268437605" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="163" pc="268437616" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="165" pc="268437628" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="166" pc="268437639" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="10" lineNum="168" pc="268437651" symbol="computeHour"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="172" pc="268437655" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="174" pc="268437659" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="175" pc="268437659" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="176" pc="268437670" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="177" pc="268437683" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="178" pc="268437694" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="180" pc="268437715" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="183" pc="268437736" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="11" lineNum="185" pc="268437746" symbol="getDistanceStr"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="189" pc="268437750" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="190" pc="268437754" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="191" pc="268437764" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="191" pc="268437775" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="192" pc="268437781" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="193" pc="268437791" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="194" pc="268437798" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="195" pc="268437808" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="196" pc="268437818" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="197" pc="268437829" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="198" pc="268437839" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="200" pc="268437852" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="201" pc="268437863" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="203" pc="268437907" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="12" lineNum="205" pc="268437971" symbol="formatTimerTime"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="209" pc="268437975" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="210" pc="268437979" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="211" pc="268437990" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="213" pc="268437999" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="214" pc="268438055" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="216" pc="268438068" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="217" pc="268438081" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="218" pc="268438091" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="219" pc="268438101" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="13" lineNum="220" pc="268438142" symbol="formatPace"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="224" pc="268438146" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="233" pc="268438150" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="234" pc="268438157" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="235" pc="268438194" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="235" pc="268438205" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="236" pc="268438211" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="236" pc="268438231" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="237" pc="268438241" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="237" pc="268438261" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="238" pc="268438271" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="238" pc="268438291" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="239" pc="268438301" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="239" pc="268438321" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="240" pc="268438331" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="240" pc="268438351" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="241" pc="268438361" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="14" lineNum="242" pc="268438368" symbol="getHRZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="15" lineNum="246" pc="268438372" symbol="getHRColor"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="15" lineNum="247" pc="268438376" symbol="getHRColor"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="16" lineNum="251" pc="268438389" symbol="getCadZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="16" lineNum="255" pc="268438393" symbol="getCadZone"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldView.mc" id="17" lineNum="259" pc="268438401" symbol="getCadColor"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="19" lineNum="9" pc="268438406" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="19" lineNum="10" pc="268438410" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="19" lineNum="14" pc="268438431" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="20" lineNum="17" pc="268438452" symbol="setColor"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="20" lineNum="18" pc="268438456" symbol="setColor"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="21" lineNum="21" pc="268438467" symbol="draw"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="21" lineNum="22" pc="268438471" symbol="draw"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldBackground.mc" id="21" lineNum="23" pc="268438503" symbol="draw"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="23" lineNum="5" pc="268438516" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="23" lineNum="6" pc="268438520" symbol="initialize"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="24" lineNum="10" pc="268438539" symbol="onStart"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="25" lineNum="14" pc="268438544" symbol="onStop"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="26" lineNum="18" pc="268438549" symbol="getInitialView"/>
+        <entry filename="/Users/yanjiexue/eclipse-workspace/FancyRunField/source/FancyRunFieldApp.mc" id="26" lineNum="19" pc="268438553" symbol="getInitialView"/>
+        <entry filename="Rez" id="33" lineNum="31" pc="268438591" symbol="initialize"/>
+        <entry filename="Rez" id="33" lineNum="32" pc="268438595" symbol="initialize"/>
+        <entry filename="Rez" id="34" lineNum="35" pc="268438620" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="36" pc="268438624" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="37" pc="268438631" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="38" pc="268438638" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="39" pc="268438651" symbol="draw"/>
+        <entry filename="Rez" id="34" lineNum="40" pc="268438664" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="43" pc="268438687" symbol="drawComplex"/>
+        <entry filename="Rez" id="35" lineNum="44" pc="268438691" symbol="drawComplex"/>
+        <entry filename="Rez" id="35" lineNum="46" pc="268438727" symbol="drawComplex"/>
+        <entry filename="Rez" id="37" lineNum="59" pc="268438790" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="60" pc="268438794" symbol="initialize"/>
+        <entry filename="Rez" id="38" lineNum="63" pc="268438819" symbol="draw"/>
+        <entry filename="Rez" id="38" lineNum="64" pc="268438823" symbol="draw"/>
+        <entry filename="Rez" id="38" lineNum="65" pc="268438830" symbol="draw"/>
+        <entry filename="Rez" id="38" lineNum="66" pc="268438837" symbol="draw"/>
+        <entry filename="Rez" id="38" lineNum="67" pc="268438850" symbol="draw"/>
+        <entry filename="Rez" id="38" lineNum="68" pc="268438863" symbol="draw"/>
+        <entry filename="Rez" id="39" lineNum="71" pc="268438886" symbol="drawComplex"/>
+        <entry filename="Rez" id="39" lineNum="72" pc="268438890" symbol="drawComplex"/>
+        <entry filename="Rez" id="39" lineNum="74" pc="268438926" symbol="drawComplex"/>
+        <entry filename="Rez" id="41" lineNum="87" pc="268438989" symbol="initialize"/>
+        <entry filename="Rez" id="41" lineNum="88" pc="268438993" symbol="initialize"/>
+        <entry filename="Rez" id="42" lineNum="91" pc="268439018" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="92" pc="268439022" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="93" pc="268439029" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="94" pc="268439036" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="95" pc="268439049" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="96" pc="268439062" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="99" pc="268439085" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="101" pc="268439089" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="102" pc="268439118" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="104" pc="268439180" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="105" pc="268439216" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="107" pc="268439278" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="108" pc="268439314" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="110" pc="268439376" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="111" pc="268439412" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="113" pc="268439474" symbol="drawComplex"/>
+        <entry filename="Rez" id="43" lineNum="114" pc="268439510" symbol="drawComplex"/>
+        <entry filename="Rez" id="45" lineNum="127" pc="268439573" symbol="initialize"/>
+        <entry filename="Rez" id="45" lineNum="128" pc="268439577" symbol="initialize"/>
+        <entry filename="Rez" id="46" lineNum="131" pc="268439602" symbol="draw"/>
+        <entry filename="Rez" id="46" lineNum="132" pc="268439606" symbol="draw"/>
+        <entry filename="Rez" id="46" lineNum="133" pc="268439613" symbol="draw"/>
+        <entry filename="Rez" id="46" lineNum="134" pc="268439620" symbol="draw"/>
+        <entry filename="Rez" id="46" lineNum="135" pc="268439633" symbol="draw"/>
+        <entry filename="Rez" id="46" lineNum="136" pc="268439646" symbol="draw"/>
+        <entry filename="Rez" id="47" lineNum="139" pc="268439669" symbol="drawComplex"/>
+        <entry filename="Rez" id="47" lineNum="141" pc="268439673" symbol="drawComplex"/>
+        <entry filename="Rez" id="47" lineNum="142" pc="268439702" symbol="drawComplex"/>
+        <entry filename="Rez" id="49" lineNum="155" pc="268439765" symbol="initialize"/>
+        <entry filename="Rez" id="49" lineNum="156" pc="268439769" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="159" pc="268439794" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="160" pc="268439798" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="161" pc="268439805" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="162" pc="268439812" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="163" pc="268439825" symbol="draw"/>
+        <entry filename="Rez" id="50" lineNum="164" pc="268439838" symbol="draw"/>
+        <entry filename="Rez" id="51" lineNum="167" pc="268439861" symbol="drawComplex"/>
+        <entry filename="Rez" id="51" lineNum="169" pc="268439865" symbol="drawComplex"/>
+        <entry filename="Rez" id="51" lineNum="170" pc="268439901" symbol="drawComplex"/>
+        <entry filename="Rez" id="53" lineNum="183" pc="268439964" symbol="initialize"/>
+        <entry filename="Rez" id="53" lineNum="184" pc="268439968" symbol="initialize"/>
+        <entry filename="Rez" id="54" lineNum="187" pc="268439993" symbol="draw"/>
+        <entry filename="Rez" id="54" lineNum="188" pc="268439997" symbol="draw"/>
+        <entry filename="Rez" id="54" lineNum="189" pc="268440004" symbol="draw"/>
+        <entry filename="Rez" id="54" lineNum="190" pc="268440011" symbol="draw"/>
+        <entry filename="Rez" id="54" lineNum="191" pc="268440024" symbol="draw"/>
+        <entry filename="Rez" id="54" lineNum="192" pc="268440037" symbol="draw"/>
+        <entry filename="Rez" id="55" lineNum="195" pc="268440060" symbol="drawComplex"/>
+        <entry filename="Rez" id="55" lineNum="197" pc="268440064" symbol="drawComplex"/>
+        <entry filename="Rez" id="55" lineNum="198" pc="268440100" symbol="drawComplex"/>
+        <entry filename="Rez" id="57" lineNum="211" pc="268440163" symbol="initialize"/>
+        <entry filename="Rez" id="57" lineNum="212" pc="268440167" symbol="initialize"/>
+        <entry filename="Rez" id="58" lineNum="215" pc="268440192" symbol="draw"/>
+        <entry filename="Rez" id="58" lineNum="216" pc="268440196" symbol="draw"/>
+        <entry filename="Rez" id="58" lineNum="217" pc="268440203" symbol="draw"/>
+        <entry filename="Rez" id="58" lineNum="218" pc="268440210" symbol="draw"/>
+        <entry filename="Rez" id="58" lineNum="219" pc="268440223" symbol="draw"/>
+        <entry filename="Rez" id="58" lineNum="220" pc="268440236" symbol="draw"/>
+        <entry filename="Rez" id="59" lineNum="223" pc="268440259" symbol="drawComplex"/>
+        <entry filename="Rez" id="59" lineNum="225" pc="268440263" symbol="drawComplex"/>
+        <entry filename="Rez" id="59" lineNum="226" pc="268440299" symbol="drawComplex"/>
+        <entry filename="Rez" id="61" lineNum="239" pc="268440362" symbol="initialize"/>
+        <entry filename="Rez" id="61" lineNum="240" pc="268440366" symbol="initialize"/>
+        <entry filename="Rez" id="62" lineNum="243" pc="268440391" symbol="draw"/>
+        <entry filename="Rez" id="62" lineNum="244" pc="268440395" symbol="draw"/>
+        <entry filename="Rez" id="62" lineNum="245" pc="268440402" symbol="draw"/>
+        <entry filename="Rez" id="62" lineNum="246" pc="268440409" symbol="draw"/>
+        <entry filename="Rez" id="62" lineNum="247" pc="268440422" symbol="draw"/>
+        <entry filename="Rez" id="62" lineNum="248" pc="268440435" symbol="draw"/>
+        <entry filename="Rez" id="63" lineNum="251" pc="268440458" symbol="drawComplex"/>
+        <entry filename="Rez" id="63" lineNum="253" pc="268440462" symbol="drawComplex"/>
+        <entry filename="Rez" id="63" lineNum="254" pc="268440498" symbol="drawComplex"/>
+        <entry filename="Rez" id="65" lineNum="267" pc="268440561" symbol="initialize"/>
+        <entry filename="Rez" id="65" lineNum="268" pc="268440565" symbol="initialize"/>
+        <entry filename="Rez" id="66" lineNum="271" pc="268440590" symbol="draw"/>
+        <entry filename="Rez" id="66" lineNum="272" pc="268440594" symbol="draw"/>
+        <entry filename="Rez" id="66" lineNum="273" pc="268440601" symbol="draw"/>
+        <entry filename="Rez" id="66" lineNum="274" pc="268440608" symbol="draw"/>
+        <entry filename="Rez" id="66" lineNum="275" pc="268440621" symbol="draw"/>
+        <entry filename="Rez" id="66" lineNum="276" pc="268440634" symbol="draw"/>
+        <entry filename="Rez" id="67" lineNum="279" pc="268440657" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="280" pc="268440661" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="282" pc="268440697" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="283" pc="268440733" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="284" pc="268440783" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="286" pc="268440845" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="287" pc="268440881" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="288" pc="268440931" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="290" pc="268440993" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="291" pc="268441029" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="292" pc="268441079" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="294" pc="268441141" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="295" pc="268441177" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="296" pc="268441227" symbol="drawComplex"/>
+        <entry filename="Rez" id="67" lineNum="298" pc="268441289" symbol="drawComplex"/>
+        <entry filename="Rez" id="69" lineNum="311" pc="268441352" symbol="initialize"/>
+        <entry filename="Rez" id="69" lineNum="312" pc="268441356" symbol="initialize"/>
+        <entry filename="Rez" id="70" lineNum="315" pc="268441381" symbol="draw"/>
+        <entry filename="Rez" id="70" lineNum="316" pc="268441385" symbol="draw"/>
+        <entry filename="Rez" id="70" lineNum="317" pc="268441392" symbol="draw"/>
+        <entry filename="Rez" id="70" lineNum="318" pc="268441399" symbol="draw"/>
+        <entry filename="Rez" id="70" lineNum="319" pc="268441412" symbol="draw"/>
+        <entry filename="Rez" id="70" lineNum="320" pc="268441425" symbol="draw"/>
+        <entry filename="Rez" id="71" lineNum="323" pc="268441448" symbol="drawComplex"/>
+        <entry filename="Rez" id="73" lineNum="338" pc="268441453" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="342" pc="268441465" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="343" pc="268441501" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="344" pc="268441514" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="346" pc="268441530" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="347" pc="268441566" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="348" pc="268441579" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="350" pc="268441595" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="351" pc="268441743" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="352" pc="268441768" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="353" pc="268441820" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="354" pc="268441856" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="355" pc="268441869" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="357" pc="268441885" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="358" pc="268442046" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="359" pc="268442192" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="360" pc="268442353" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="361" pc="268442499" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="362" pc="268442660" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="363" pc="268442806" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="364" pc="268442952" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="365" pc="268443113" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="366" pc="268443259" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="367" pc="268443420" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="368" pc="268443456" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="369" pc="268443469" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="371" pc="268443485" symbol="LayoutMain"/>
+        <entry filename="Rez" id="73" lineNum="374" pc="268443631" symbol="LayoutMain"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="53" method="true" symbol="computeHour"/>
+        <entry field="true" id="43" symbol="cad"/>
+        <entry field="true" id="8388959" symbol="cadence"/>
+        <entry field="true" id="38" symbol="hr_title"/>
+        <entry field="true" id="8388733" symbol="timerTime"/>
+        <entry field="true" id="48" symbol="posAcc"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="26" symbol="pace"/>
+        <entry id="23" object="true" symbol="bottom"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="9" object="true" symbol="FancyRunFieldView"/>
+        <entry id="22" object="true" symbol="main"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="41" symbol="distanceUnit"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry field="true" id="36" symbol="hr_title_font"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389401" symbol="is24Hour"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="34" symbol="hr_rect_y"/>
+        <entry field="true" id="35" symbol="hr_rect_x"/>
+        <entry field="true" id="33" symbol="hr_rect_w"/>
+        <entry field="true" id="32" symbol="timer_title"/>
+        <entry id="24" method="true" symbol="drawComplex"/>
+        <entry field="true" id="30" symbol="hr_rect_h"/>
+        <entry field="true" id="8388724" symbol="battery"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry field="true" id="37" symbol="mValue"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="47" symbol="marathon"/>
+        <entry field="true" id="31" symbol="AppName"/>
+        <entry id="52" method="true" symbol="formatTime"/>
+        <entry field="true" id="42" symbol="hr_colors"/>
+        <entry id="21" object="true" symbol="hr_zone5"/>
+        <entry id="20" object="true" symbol="hr_zone4"/>
+        <entry id="19" object="true" symbol="hr_zone3"/>
+        <entry id="18" object="true" symbol="hr_zone2"/>
+        <entry id="16" object="true" symbol="hr_zone1"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="51" method="true" symbol="drawHrBg"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="15" object="true" symbol="top"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="8388750" symbol="currentCadence"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="28" symbol="hr_title_y"/>
+        <entry field="true" id="27" symbol="hr_title_x"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="49" symbol="zoneInfo"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388738" symbol="currentSpeed"/>
+        <entry field="true" id="8388734" symbol="elapsedDistance"/>
+        <entry id="10" object="true" symbol="FancyRunFieldApp"/>
+        <entry field="true" id="8388747" symbol="currentHeartRate"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="50" method="true" symbol="setGPS"/>
+        <entry field="true" id="46" symbol="half"/>
+        <entry id="58" method="true" symbol="getHRColor"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="57" method="true" symbol="getHRZone"/>
+        <entry field="true" id="44" symbol="fiveK"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry field="true" id="40" symbol="ZERO_DISTANCE"/>
+        <entry field="true" id="39" symbol="ZERO_TIME"/>
+        <entry id="55" method="true" symbol="formatTimerTime"/>
+        <entry id="59" method="true" symbol="getCadZone"/>
+        <entry field="true" id="8388911" symbol="distance"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry id="25" method="true" symbol="LayoutMain"/>
+        <entry id="56" method="true" symbol="formatPace"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="60" method="true" symbol="getCadColor"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="8388735" symbol="currentLocationAccuracy"/>
+        <entry id="17" object="true" symbol="hr_zone"/>
+        <entry id="11" module="true" symbol="Menus"/>
+        <entry field="true" id="29" symbol="hr"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="45" symbol="tenK"/>
+        <entry id="14" object="true" symbol="bg"/>
+        <entry id="54" method="true" symbol="getDistanceStr"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435907" name="dc" stackId="1" startPc="268435856"/>
+        <entry endPc="268436367" name="info" stackId="1" startPc="268435907"/>
+        <entry endPc="268436886" name="hrStr" stackId="4" startPc="268436371"/>
+        <entry endPc="268436886" name="lblTime" stackId="2" startPc="268436371"/>
+        <entry endPc="268436886" name="pace" stackId="3" startPc="268436371"/>
+        <entry endPc="268436909" name="dc" stackId="1" startPc="268436367"/>
+        <entry endPc="268437076" name="color" stackId="2" startPc="268436913"/>
+        <entry endPc="268437076" name="lblGPS" stackId="3" startPc="268436913"/>
+        <entry endPc="268437077" name="posAcc" stackId="1" startPc="268436909"/>
+        <entry endPc="268437361" name="hr_zone_color" stackId="3" startPc="268437081"/>
+        <entry endPc="268437361" name="hr_zone" stackId="2" startPc="268437081"/>
+        <entry endPc="268437361" name="lbl" stackId="4" startPc="268437081"/>
+        <entry endPc="268437362" name="dc" stackId="1" startPc="268437077"/>
+        <entry endPc="268437600" name="clockTime" stackId="1" startPc="268437366"/>
+        <entry endPc="268437600" name="time" stackId="2" startPc="268437366"/>
+        <entry endPc="268437655" name="hour" stackId="1" startPc="268437601"/>
+        <entry endPc="268437733" name="dist" stackId="3" startPc="268437670"/>
+        <entry endPc="268437749" name="distStr" stackId="2" startPc="268437659"/>
+        <entry endPc="268437750" name="distanceVal" stackId="1" startPc="268437655"/>
+        <entry endPc="268437974" name="hour" stackId="4" startPc="268437754"/>
+        <entry endPc="268437974" name="second" stackId="5" startPc="268437754"/>
+        <entry endPc="268437974" name="num" stackId="3" startPc="268437754"/>
+        <entry endPc="268437974" name="duration" stackId="2" startPc="268437754"/>
+        <entry endPc="268437974" name="minute" stackId="6" startPc="268437754"/>
+        <entry endPc="268437975" name="ms" stackId="1" startPc="268437750"/>
+        <entry endPc="268438145" name="paceSeconds" stackId="3" startPc="268437979"/>
+        <entry endPc="268438145" name="second" stackId="5" startPc="268437979"/>
+        <entry endPc="268438145" name="num" stackId="4" startPc="268437979"/>
+        <entry endPc="268438145" name="unit" stackId="2" startPc="268437979"/>
+        <entry endPc="268438145" name="duration" stackId="7" startPc="268437979"/>
+        <entry endPc="268438145" name="minute" stackId="6" startPc="268437979"/>
+        <entry endPc="268438146" name="speed_mps" stackId="1" startPc="268437975"/>
+        <entry endPc="268438371" name="zone" stackId="2" startPc="268438150"/>
+        <entry endPc="268438371" name="hr" stackId="3" startPc="268438150"/>
+        <entry endPc="268438372" name="val" stackId="1" startPc="268438146"/>
+        <entry endPc="268438389" name="hrZone" stackId="1" startPc="268438372"/>
+        <entry endPc="268438400" name="zone" stackId="2" startPc="268438393"/>
+        <entry endPc="268438401" name="cad" stackId="1" startPc="268438389"/>
+        <entry endPc="268438406" name="zone" stackId="1" startPc="268438401"/>
+        <entry endPc="268438451" name="dictionary" stackId="1" startPc="268438410"/>
+        <entry endPc="268438467" name="color" stackId="1" startPc="268438452"/>
+        <entry endPc="268438516" name="dc" stackId="1" startPc="268438467"/>
+        <entry endPc="268438544" name="state" stackId="1" startPc="268438539"/>
+        <entry endPc="268438549" name="state" stackId="1" startPc="268438544"/>
+        <entry endPc="268438686" name="pWidth" stackId="4" startPc="268438624"/>
+        <entry endPc="268438686" name="pY" stackId="3" startPc="268438624"/>
+        <entry endPc="268438686" name="pX" stackId="2" startPc="268438624"/>
+        <entry endPc="268438686" name="pHeight" stackId="5" startPc="268438624"/>
+        <entry endPc="268438687" name="dc" stackId="1" startPc="268438620"/>
+        <entry endPc="268438790" name="pWidth" stackId="4" startPc="268438687"/>
+        <entry endPc="268438790" name="dc" stackId="1" startPc="268438687"/>
+        <entry endPc="268438790" name="pY" stackId="3" startPc="268438687"/>
+        <entry endPc="268438790" name="pX" stackId="2" startPc="268438687"/>
+        <entry endPc="268438790" name="pHeight" stackId="5" startPc="268438687"/>
+        <entry endPc="268438885" name="pWidth" stackId="4" startPc="268438823"/>
+        <entry endPc="268438885" name="pY" stackId="3" startPc="268438823"/>
+        <entry endPc="268438885" name="pX" stackId="2" startPc="268438823"/>
+        <entry endPc="268438885" name="pHeight" stackId="5" startPc="268438823"/>
+        <entry endPc="268438886" name="dc" stackId="1" startPc="268438819"/>
+        <entry endPc="268438989" name="pWidth" stackId="4" startPc="268438886"/>
+        <entry endPc="268438989" name="dc" stackId="1" startPc="268438886"/>
+        <entry endPc="268438989" name="pY" stackId="3" startPc="268438886"/>
+        <entry endPc="268438989" name="pX" stackId="2" startPc="268438886"/>
+        <entry endPc="268438989" name="pHeight" stackId="5" startPc="268438886"/>
+        <entry endPc="268439084" name="pWidth" stackId="4" startPc="268439022"/>
+        <entry endPc="268439084" name="pY" stackId="3" startPc="268439022"/>
+        <entry endPc="268439084" name="pX" stackId="2" startPc="268439022"/>
+        <entry endPc="268439084" name="pHeight" stackId="5" startPc="268439022"/>
+        <entry endPc="268439085" name="dc" stackId="1" startPc="268439018"/>
+        <entry endPc="268439573" name="pWidth" stackId="4" startPc="268439085"/>
+        <entry endPc="268439573" name="dc" stackId="1" startPc="268439085"/>
+        <entry endPc="268439573" name="pY" stackId="3" startPc="268439085"/>
+        <entry endPc="268439573" name="pX" stackId="2" startPc="268439085"/>
+        <entry endPc="268439573" name="pHeight" stackId="5" startPc="268439085"/>
+        <entry endPc="268439668" name="pWidth" stackId="4" startPc="268439606"/>
+        <entry endPc="268439668" name="pY" stackId="3" startPc="268439606"/>
+        <entry endPc="268439668" name="pX" stackId="2" startPc="268439606"/>
+        <entry endPc="268439668" name="pHeight" stackId="5" startPc="268439606"/>
+        <entry endPc="268439669" name="dc" stackId="1" startPc="268439602"/>
+        <entry endPc="268439765" name="pWidth" stackId="4" startPc="268439669"/>
+        <entry endPc="268439765" name="dc" stackId="1" startPc="268439669"/>
+        <entry endPc="268439765" name="pY" stackId="3" startPc="268439669"/>
+        <entry endPc="268439765" name="pX" stackId="2" startPc="268439669"/>
+        <entry endPc="268439765" name="pHeight" stackId="5" startPc="268439669"/>
+        <entry endPc="268439860" name="pWidth" stackId="4" startPc="268439798"/>
+        <entry endPc="268439860" name="pY" stackId="3" startPc="268439798"/>
+        <entry endPc="268439860" name="pX" stackId="2" startPc="268439798"/>
+        <entry endPc="268439860" name="pHeight" stackId="5" startPc="268439798"/>
+        <entry endPc="268439861" name="dc" stackId="1" startPc="268439794"/>
+        <entry endPc="268439964" name="pWidth" stackId="4" startPc="268439861"/>
+        <entry endPc="268439964" name="dc" stackId="1" startPc="268439861"/>
+        <entry endPc="268439964" name="pY" stackId="3" startPc="268439861"/>
+        <entry endPc="268439964" name="pX" stackId="2" startPc="268439861"/>
+        <entry endPc="268439964" name="pHeight" stackId="5" startPc="268439861"/>
+        <entry endPc="268440059" name="pWidth" stackId="4" startPc="268439997"/>
+        <entry endPc="268440059" name="pY" stackId="3" startPc="268439997"/>
+        <entry endPc="268440059" name="pX" stackId="2" startPc="268439997"/>
+        <entry endPc="268440059" name="pHeight" stackId="5" startPc="268439997"/>
+        <entry endPc="268440060" name="dc" stackId="1" startPc="268439993"/>
+        <entry endPc="268440163" name="pWidth" stackId="4" startPc="268440060"/>
+        <entry endPc="268440163" name="dc" stackId="1" startPc="268440060"/>
+        <entry endPc="268440163" name="pY" stackId="3" startPc="268440060"/>
+        <entry endPc="268440163" name="pX" stackId="2" startPc="268440060"/>
+        <entry endPc="268440163" name="pHeight" stackId="5" startPc="268440060"/>
+        <entry endPc="268440258" name="pWidth" stackId="4" startPc="268440196"/>
+        <entry endPc="268440258" name="pY" stackId="3" startPc="268440196"/>
+        <entry endPc="268440258" name="pX" stackId="2" startPc="268440196"/>
+        <entry endPc="268440258" name="pHeight" stackId="5" startPc="268440196"/>
+        <entry endPc="268440259" name="dc" stackId="1" startPc="268440192"/>
+        <entry endPc="268440362" name="pWidth" stackId="4" startPc="268440259"/>
+        <entry endPc="268440362" name="dc" stackId="1" startPc="268440259"/>
+        <entry endPc="268440362" name="pY" stackId="3" startPc="268440259"/>
+        <entry endPc="268440362" name="pX" stackId="2" startPc="268440259"/>
+        <entry endPc="268440362" name="pHeight" stackId="5" startPc="268440259"/>
+        <entry endPc="268440457" name="pWidth" stackId="4" startPc="268440395"/>
+        <entry endPc="268440457" name="pY" stackId="3" startPc="268440395"/>
+        <entry endPc="268440457" name="pX" stackId="2" startPc="268440395"/>
+        <entry endPc="268440457" name="pHeight" stackId="5" startPc="268440395"/>
+        <entry endPc="268440458" name="dc" stackId="1" startPc="268440391"/>
+        <entry endPc="268440561" name="pWidth" stackId="4" startPc="268440458"/>
+        <entry endPc="268440561" name="dc" stackId="1" startPc="268440458"/>
+        <entry endPc="268440561" name="pY" stackId="3" startPc="268440458"/>
+        <entry endPc="268440561" name="pX" stackId="2" startPc="268440458"/>
+        <entry endPc="268440561" name="pHeight" stackId="5" startPc="268440458"/>
+        <entry endPc="268440656" name="pWidth" stackId="4" startPc="268440594"/>
+        <entry endPc="268440656" name="pY" stackId="3" startPc="268440594"/>
+        <entry endPc="268440656" name="pX" stackId="2" startPc="268440594"/>
+        <entry endPc="268440656" name="pHeight" stackId="5" startPc="268440594"/>
+        <entry endPc="268440657" name="dc" stackId="1" startPc="268440590"/>
+        <entry endPc="268441352" name="pWidth" stackId="4" startPc="268440657"/>
+        <entry endPc="268441352" name="dc" stackId="1" startPc="268440657"/>
+        <entry endPc="268441352" name="pY" stackId="3" startPc="268440657"/>
+        <entry endPc="268441352" name="pX" stackId="2" startPc="268440657"/>
+        <entry endPc="268441352" name="pHeight" stackId="5" startPc="268440657"/>
+        <entry endPc="268441447" name="pWidth" stackId="4" startPc="268441385"/>
+        <entry endPc="268441447" name="pY" stackId="3" startPc="268441385"/>
+        <entry endPc="268441447" name="pX" stackId="2" startPc="268441385"/>
+        <entry endPc="268441447" name="pHeight" stackId="5" startPc="268441385"/>
+        <entry endPc="268441448" name="dc" stackId="1" startPc="268441381"/>
+        <entry endPc="268441453" name="pWidth" stackId="4" startPc="268441448"/>
+        <entry endPc="268441453" name="dc" stackId="1" startPc="268441448"/>
+        <entry endPc="268441453" name="pY" stackId="3" startPc="268441448"/>
+        <entry endPc="268441453" name="pX" stackId="2" startPc="268441448"/>
+        <entry endPc="268441453" name="pHeight" stackId="5" startPc="268441448"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_timer_title" stackId="16" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_pace_title" stackId="9" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_custom_drawable_bg" stackId="2" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_cad_val" stackId="12" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lblTime" stackId="4" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lblTime_fontHeight" stackId="5" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_custom_drawable_bottom" stackId="17" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_dist_val" stackId="13" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_hr_val" stackId="8" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_pace_val" stackId="10" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_cad_title" stackId="11" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_dist_title" stackId="14" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lblGPS" stackId="18" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_custom_drawable_top" stackId="3" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_custom_drawable_main" stackId="6" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_timer_val" stackId="15" startPc="268441465"/>
+        <entry endPc="268443798" name="rez_cmp_local_bitmap_lbl_hr_title" stackId="7" startPc="268441465"/>
+        <entry endPc="268443799" name="dc" stackId="1" startPc="268441453"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="FancyRunFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="FancyRunFieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="FancyRunFieldView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="FancyRunFieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setGPS" parent="FancyRunFieldView">
+            <param id="posAcc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHrBg" parent="FancyRunFieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatTime" parent="FancyRunFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="computeHour" parent="FancyRunFieldView">
+            <param id="hour"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDistanceStr" parent="FancyRunFieldView">
+            <param id="distanceVal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatTimerTime" parent="FancyRunFieldView">
+            <param id="ms"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="formatPace" parent="FancyRunFieldView">
+            <param id="speed_mps"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getHRZone" parent="FancyRunFieldView">
+            <param id="val"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getHRColor" parent="FancyRunFieldView">
+            <param id="hrZone"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCadZone" parent="FancyRunFieldView">
+            <param id="cad"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCadColor" parent="FancyRunFieldView">
+            <param id="zone"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="FancyRunFieldApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="FancyRunFieldApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="FancyRunFieldApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="FancyRunFieldApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="bg">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="bg">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="bg">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="top">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="top">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="top">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone1">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone1">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone1">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone2">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone2">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone2">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone3">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone3">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone3">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone4">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone4">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone4">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="hr_zone5">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="hr_zone5">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="hr_zone5">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="main">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="main">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="bottom">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="bottom">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="bottom">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="LayoutMain" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="FancyRunFieldApp" type="class"/>
+        <dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="522" parentId="Drawables" symbolId="bottom" type="class"/>
+        <dataEntry offset="585" parentId="Drawables" symbolId="hr_zone5" type="class"/>
+        <dataEntry offset="648" parentId="Drawables" symbolId="hr_zone4" type="class"/>
+        <dataEntry offset="711" parentId="Drawables" symbolId="hr_zone3" type="class"/>
+        <dataEntry offset="774" parentId="Drawables" symbolId="hr_zone2" type="class"/>
+        <dataEntry offset="837" parentId="Drawables" symbolId="hr_zone1" type="class"/>
+        <dataEntry offset="900" parentId="Drawables" symbolId="main" type="class"/>
+        <dataEntry offset="963" parentId="Drawables" symbolId="bg" type="class"/>
+        <dataEntry offset="1026" parentId="Drawables" symbolId="top" type="class"/>
+        <dataEntry offset="1089" parentId="Drawables" symbolId="hr_zone" type="class"/>
+        <dataEntry offset="1152" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1183" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1214" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1245" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1284" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1427" parentId="globals" symbolId="FancyRunFieldView" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>

@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">FancyRunField</string>
+
+    <string id="label">My Value</string>
+    <string id="hr">心率</string>
+    <string id="distance">距離</string>
+    <string id="timer_title">時間</string>
+    <string id="pace">配速</string>
+    <string id="cadence">步頻</string>
+    <!-- hr rect and title 0, 41, 79, 28    47, 40-->
+</strings>
